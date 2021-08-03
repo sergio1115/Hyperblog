@@ -4,12 +4,12 @@ body{
     font-family: Helvetica;
     font-size: 20px;
     margin: 0;
-    color: brown;
+    color: black;
     padding: 0;
 }
 #cabecera
 {
-    background: #33A;
+    background:yellowgreen;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
@@ -41,7 +41,7 @@ body{
 }
 #post
 {
-<<<<<<< HEAD
+    background: white;
     padding: 1em;
 }
 #footer
@@ -50,9 +50,4 @@ body{
     color: white;
     text-align: center;
     padding: 0.5em;
-
-=======
-    background: white;
-    padding: 1em;
->>>>>>> 519aab3218a14a1f6b7017e89f379770c55efb2c
 }
