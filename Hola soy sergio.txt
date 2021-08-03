@@ -2,5 +2,12 @@ Hola soy sergio
 Tengo 28 años y naci en colombia
 estoy aprendiendo a programar y a usar git - github
 
+Experimento 1
+
+Experimento 2
+
+master 1
+
+master 2
 
 mañana nos enfocaremos en su vida laboral
