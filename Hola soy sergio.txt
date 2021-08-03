@@ -4,4 +4,6 @@ estoy aprendiendo a programar y a usar git - github
 
 master 1
 
+master 2
+
 mañana nos enfocaremos en su vida laboral
